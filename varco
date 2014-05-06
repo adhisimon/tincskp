@@ -1,0 +1,13 @@
+Subnet = 172.20.2.2/32
+Compression = 10
+Address = fastnet.edge.ptskp.co.id
+Port = 6550
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAuG0bnGu+7mPbF1O04p/LdT1SuZwLMS5zSVxy8dxdqUbJ7w5RpcLM
+Bpd+3gkRmj376H8LycxZ3bnUQ7p1Vw/yeu97z76Z5qIt7zLQRYH4KXZmQ00N1Jbj
+zpk28G+HHUTgXS7F/s89H1amiBXjmaGvcu0dpBxrkIDwtDYPRh8Hk8PRb9XgSgM7
+FUoxSE3Ct/Gz1ACBUid7Em0KkOqrgjuIbkSMG1+TbUumD6IPtQmk4jvglPo/rEUO
+C3kCrFX+pzS6yik5jVwUZ15fHnZds0wBAb+JVCZrToIRGWFDb7f8xj5E5mkEQfVA
+CUrOfIGh4WEZBZz/uVYRjBRgxBTWSrepWQIDAQAB
+-----END RSA PUBLIC KEY-----

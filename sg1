@@ -1,0 +1,13 @@
+Address = sg1.ptskp.co.id
+Port = 655
+Subnet = 172.20.2.1/32
+Compression = 10
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAxtNCwQ7/WdaQqMNUggdHVkY1mBWz2cajSZhKwDGSBLKcHkyw5EaQ
+nYzFblSC0gq9+yss6wLcahsgde16xw/CdqTToBP2kOiRgpxL9ohgKS3Jb5RNtkMj
+CXk4zlqKec6oa1VgvqqaF+c56bFmhXm2irbDxoqKZh45QMo9hu6srx95YCLHGsQ6
+9Bc/yryPMRVL5oIUmCtsl9SX1Fu5CznoiYVwYzAIkPpPfaT/oEVvhEAu7pps+MZZ
+FgK0Y1wvXQG6b+RIOtKdluptmctJ//ZPmhdD/rs9NhiySE7JoHSxnm75VnZiLKDM
+NH7D6IiUYoOIaZR+M8Dllrqh745MehBsmQIDAQAB
+-----END RSA PUBLIC KEY-----
