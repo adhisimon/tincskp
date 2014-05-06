@@ -1,4 +1,5 @@
 Compression = 10
+Subnet = 172.20.2.7/32
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAyhN+zJ2Ikk/StBqMwgpU9aZKOoNoWRJO6rxiowdb3KZBb2LxtFQB
