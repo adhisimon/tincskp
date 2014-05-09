@@ -1,6 +1,6 @@
 Subnet = 172.20.2.2/32
 Compression = 10
-Address = fastnet.edge.ptskp.co.id
+Address = skp.uni.cx
 Port = 6550
 
 -----BEGIN RSA PUBLIC KEY-----
