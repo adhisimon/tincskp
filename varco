@@ -2,6 +2,7 @@ Subnet = 172.20.2.2/32
 Compression = 10
 Address = skp.uni.cx
 Port = 6550
+IndirectData = yes
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAuG0bnGu+7mPbF1O04p/LdT1SuZwLMS5zSVxy8dxdqUbJ7w5RpcLM
