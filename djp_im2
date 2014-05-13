@@ -2,6 +2,7 @@ Subnet = 172.20.2.10/32
 Address = gw-im2.pajak.go.id
 Port = 6550
 Compression = 10
+IndirectData = yes
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAt7Bm7w91ia/ERmxeglZ157wbRfjJTjHAiI5v5ZpGvad7hq36Pb42

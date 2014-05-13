@@ -2,6 +2,7 @@ Address = gw-telkom.pajak.go.id
 Port = 6550
 Subnet = 172.20.2.9/32
 Compression = 10
+IndirectData = yes
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA0X6AIUeP76IQ4H64Kiis6wZj7XpAspEildSIh22IKZe6iI4/1Ebf
