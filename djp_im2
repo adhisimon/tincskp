@@ -1,5 +1,5 @@
 Subnet = 172.20.2.10/32
-Address = gw-im2.pajak.go.id
+Address = 219.83.59.30
 Port = 6550
 Compression = 10
 

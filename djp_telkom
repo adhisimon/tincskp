@@ -1,4 +1,4 @@
-Address = gw-telkom.pajak.go.id
+Address = 203.130.212.67
 Port = 6550
 Subnet = 172.20.2.9/32
 Compression = 10
