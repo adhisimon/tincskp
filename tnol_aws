@@ -1,6 +1,7 @@
 Subnet = 172.20.2.15/32
 Address = tnol.co.id
 Port = 6550
+Compression = 10
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA2r/JNO1S3PDbjpwqm0FmKOmp5ftNfhHtWX5/kGhV1B968AwP+C+v
