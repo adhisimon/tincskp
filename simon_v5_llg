@@ -1,0 +1,11 @@
+Subnet = 172.20.2.16/32
+Compression = 10
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA0pXfzfbBz2heY/ZctcjaI3MyRFK8xKACvIILgpqcEPd+tddkRkB1
+wFiXL9GXLUeMzbYu1d3L/EktAMyzMbwHOCwnsBbuP6UvkioyyOMN7m2BgIH/PiJL
+05BdD3bber8j4G5LHQxblH+kBrCpPzFuir2j6yJXeTq/w7mS62p8mYhVfns8BLI1
+egSJSV19niWCkgpEyjF+61nckR+gt/bNqWdbGyx8MqYhCMQNErM23rNmaYQctU/f
+gMvgzNvrU89d/lVVCE2h4jyBZynCigXSJ706ucHVfyxpDPqe84zy5H9iOTOoZ6N3
+dMTfwwF32fvJN8+CeP4Hjy9pNc5Tr2JYywIDAQAB
+-----END RSA PUBLIC KEY-----
