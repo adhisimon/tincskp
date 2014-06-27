@@ -1,6 +1,7 @@
-Subnet = 172.16.20.2.17/32
+Subnet = 172.20.2.17/32
 Compression = yes
 Address = gitlab.kodesumber.com
+Port = 6550
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA04vFWcK0rWluCT6hDUoL69g2EIgqwF/NMEaHUadjwLLfU/0d3Jtb
