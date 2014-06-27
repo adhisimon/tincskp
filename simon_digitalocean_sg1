@@ -1,0 +1,12 @@
+Subnet = 172.16.20.2.17/32
+Compression = yes
+Address = gitlab.kodesumber.com
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA04vFWcK0rWluCT6hDUoL69g2EIgqwF/NMEaHUadjwLLfU/0d3Jtb
+NAeSTwo0cEMzfYzaEhD+XPlvVlPS5F1SCpRtei8kbZH+rxBBq11+zXRXwLC2eov4
+hkkjLxAgbDNZb/JTwXBkg65DInH3REUiw6c/Sh975mgaGqWqGPgAs7LV5+p2WFOc
+ffu+xtaiEdGI/1Pw1g5hV7qBsjZlOGmnDs+T6KWmSoff29ugVKZwlRK0QPxUUFrd
+ZznYji2d2yqr8ygY7N6lAwFMoxRpGyM9mr0m2MriabI5XDdBvt2/dUwU+8dTO6Uy
+SK0qJb8RCTUUTwNGmMlW6jh5gznYcbBzsQIDAQAB
+-----END RSA PUBLIC KEY-----
