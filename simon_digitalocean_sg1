@@ -1,5 +1,5 @@
 Subnet = 172.20.2.17/32
-Compression = yes
+Compression = 10
 Address = gitlab.kodesumber.com
 Port = 6550
 
