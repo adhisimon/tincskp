@@ -1,0 +1,12 @@
+Subnet = 172.20.2.18/32
+Compression = 10
+Port = 6550
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAlozJUNyfwCndrL7fTIdqWJTpsVv6W+XtUx6YzZXhHbHhvwat/nKN
+bYmmffagqL8Lw9zQecEQoPNwTYYlkYiKPwUXeIgcgmQnZ8StPbPIpsPX+/SqgwWo
+tx4klmgy9VypPiZ+Kmny57R5FhslcmzvGyf20abIalPjMBG531WDXrVvOucSchXz
++aGmdWH/Ehj3DhwkHWYkmmVK081gVYjyJvnfmaCIoVktUqr77X8l0escvYBbvEMO
+fBXEtS848Amg4+xiu0OwUfP3rairs2Mv3bY4rE4mQW7eWCxX59okvACrWc3yvp6H
+gCKuNUVHRAb2CwOsW2RDVTGa8Mh4iOszwwIDAQAB
+-----END RSA PUBLIC KEY-----
